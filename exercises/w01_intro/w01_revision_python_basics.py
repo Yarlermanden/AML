@@ -34,6 +34,17 @@ https://www.python.org/about/gettingstarted/
 important: always adhere to the python pep-8 style:
 https://www.python.org/dev/peps/pep-0008/
 """
+B = [1, 2, 3]
+C = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+#x1 = C[:, 2]
+x1 = C[:][2]
+x1
+x2 = C[:][1:3]
+x2
+x3 = C[:][2:3]
+x3
+x4 = C[2][3][:]
+x4
 
 a = 7
 print(a)
@@ -55,6 +66,7 @@ and learn how matrix expressions and representations are different:
 
 https://numpy.org/learn/
 """
+E = np.array([1, 2, 3])
 
 d = np.float(42)
 print(d)
