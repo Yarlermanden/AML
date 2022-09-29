@@ -1,0 +1,6 @@
+*/data/*
+*/data
+*/data/
+data/MNIST/*
+.DS_Store
+exercises/w04_cnn_regularization_transferlearning/data/
