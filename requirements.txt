@@ -1,0 +1,20 @@
+pip>=21.3.1
+numpy==1.19.5
+scipy==1.7.3
+six==1.15.0
+
+h5py==3.1.0
+pandas==1.4.0
+matplotlib==3.5.3
+seaborn==0.11.2
+scikit-learn==1.0.2
+
+imageio>=2.5
+nbconvert>=6.0
+dill>=0.3.0
+torch==1.12.0
+torchvision==0.13.0
+#tensorflow-cpu==2.6.0  # if your PC does not have CUDA
+tensorflow==2.6.0
+
+jupyter>=1.0.0
