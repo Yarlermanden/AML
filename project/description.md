@@ -11,8 +11,6 @@ In parallel to working towards the general learning objectives of the Advanced M
 
 
 ## Timeline - Overview
-* Thu, 10.11. Deadline for your own project description
-* Tue, 15.11. Project Start
 * Wed, 09.11. Deadline for your own project description xor choice of pre-defined project
 * Tue, 10.11. Project Kick-Off (after the lectures)
 * Thu, 24.11. Supervision meeting (mandatory)
@@ -22,7 +20,6 @@ In parallel to working towards the general learning objectives of the Advanced M
 
 
 ## Formalities
-As seen in the timeline, the project time is 15.11.-08.12., so roughly four weeks, where you have no lectures or other obligations for the course (except some rework of previous lectures/exercises if needed). However, the final report is due on 3rd of January 2023. The project work is done in groups of 2–4 people. The group formation happens via LearnIT, and you need to register as one group until 15.11.2022.
 As seen in the timeline, the project time is 11.11.-08.12., so roughly four weeks. 
   During this time you have no lectures or other mandatory exercises for the course, but the opportunity to discuss some rework of previous lectures/exercises (if needed) and the (optional) exercise sheet 10 during the exercise time on 15.11. 
 
