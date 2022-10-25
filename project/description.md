@@ -12,7 +12,7 @@ In parallel to working towards the general learning objectives of the Advanced M
 
 ## Timeline - Overview
 * Wed, 09.11. Deadline for your own project description xor choice of pre-defined project
-* Tue, 10.11. Project Kick-Off (after the lectures)
+* Thu, 10.11. Project Kick-Off (after the lectures)
 * Thu, 24.11. Supervision meeting (mandatory)
 * Thu, 08.12. Group presentation round (mandatory)
 * Tue, 03.01.2023 Project report hand-in (mandatory)
