@@ -13,6 +13,8 @@ In parallel to working towards the general learning objectives of the Advanced M
 ## Timeline - Overview
 * Thu, 10.11. Deadline for your own project description
 * Tue, 15.11. Project Start
+* Wed, 09.11. Deadline for your own project description xor choice of pre-defined project
+* Tue, 10.11. Project Kick-Off (after the lectures)
 * Thu, 24.11. Supervision meeting (mandatory)
 * Thu, 08.12. Group presentation round (mandatory)
 * Tue, 03.01.2023 Project report hand-in (mandatory)
@@ -21,6 +23,10 @@ In parallel to working towards the general learning objectives of the Advanced M
 
 ## Formalities
 As seen in the timeline, the project time is 15.11.-08.12., so roughly four weeks, where you have no lectures or other obligations for the course (except some rework of previous lectures/exercises if needed). However, the final report is due on 3rd of January 2023. The project work is done in groups of 2–4 people. The group formation happens via LearnIT, and you need to register as one group until 15.11.2022.
+As seen in the timeline, the project time is 11.11.-08.12., so roughly four weeks. 
+  During this time you have no lectures or other mandatory exercises for the course, but the opportunity to discuss some rework of previous lectures/exercises (if needed) and the (optional) exercise sheet 10 during the exercise time on 15.11. 
+
+However, the final report is due on 3rd of January 2023. The project work is done in groups of 2–4 people. The group formation happens via LearnIT, and you need to register as one group until 09./10.11.2022.
 
 You can start the project at any point earlier if this better fits your schedule (given your group and project are settled), but there will be no extensions for the mandatory group presentation or report submission.
 
@@ -70,9 +76,17 @@ You are encouraged to come up with your own project and propose it to the teache
 ## Supervision meeting
 This supervision meeting is an individual session with one teacher for you as a group.
 Therein we want to hear about your current open questions and challenges, and thereby help you resolve roadblocks and guide you towards a successful finalized project.
+## Supervision
+We plan to guide you with supervision and mentoring during the project to help you develop ideas and approaches, to resolve roadblocks, and to guide you towards a successful finalised project.
+
+1. Our TA is there for all ideas/questions/problems on **Tuesdays 14-16h** (or longer if needed) in 3A54 and/or online.
+
+2. We organise a **supervision meeting** halfway (on **24.11.** between 12-14h) as an individual session between one of the teachers and your group. We will organise a slot of about 30min per group with a schedule beforehand (in LearnIT). The meeting is about helping you with your current open questions and challenges - code or results can be discussed but are not required.
+
 
 ## Group presentation round
 The aim for the presentation round in class (during the last lecture/exercises slots of the semester) is to inform each other about your experiences and to focus your project work on one key outcome. Thus, we organise the group presentation round as a mini-conference. 
+The aim for the presentation round in class (during the last lecture/exercises slots of the semester, **08.12.** from 12h ct onwards) is to inform each other about your experiences and to focus your project work on one key outcome. Thus, we organise the group presentation round as a mini-conference. 
 
 Each project group is asked to:
 * provide a 7 min. presentation + 3 min. Q/A - it is recommended to limit to 5 slides or a live notebook,
@@ -123,3 +137,4 @@ Let's assume you try something which does "not work out". In this case, your tas
 * Why do you claim "it does not work"? 
 * What can be possible reasons for this?
 * Additionally: perform additional experiments to support your hypothesis of "why did it fail"?
+
