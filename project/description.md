@@ -70,9 +70,6 @@ You are encouraged to come up with your own project and propose it to the teache
 5. List *n* optional goals that you find particularly interesting (e.g. attempt better ideas than found in the state of the art).
 
 
-## Supervision meeting
-This supervision meeting is an individual session with one teacher for you as a group.
-Therein we want to hear about your current open questions and challenges, and thereby help you resolve roadblocks and guide you towards a successful finalized project.
 ## Supervision
 We plan to guide you with supervision and mentoring during the project to help you develop ideas and approaches, to resolve roadblocks, and to guide you towards a successful finalised project.
 
@@ -82,8 +79,7 @@ We plan to guide you with supervision and mentoring during the project to help y
 
 
 ## Group presentation round
-The aim for the presentation round in class (during the last lecture/exercises slots of the semester) is to inform each other about your experiences and to focus your project work on one key outcome. Thus, we organise the group presentation round as a mini-conference. 
-The aim for the presentation round in class (during the last lecture/exercises slots of the semester, **08.12.** from 12h ct onwards) is to inform each other about your experiences and to focus your project work on one key outcome. Thus, we organise the group presentation round as a mini-conference. 
+The aim for the presentation round in class (during the last lecture/exercises slots of the semester, **08.12.** from 12h ct onwards) is to inform each other about your experiences and to focus your project work on one key outcome. Thus, we organise the group presentation round as a mini-conference.
 
 Each project group is asked to:
 * provide a 7 min. presentation + 3 min. Q/A - it is recommended to limit to 5 slides or a live notebook,
