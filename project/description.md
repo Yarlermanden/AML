@@ -12,7 +12,7 @@ In parallel to working towards the general learning objectives of the Advanced M
 
 ## Timeline - Overview
 * Wed, 09.11. Deadline for your own project description xor choice of pre-defined project
-* Thu, 10.11. Project Kick-Off (after the lectures)
+* Thu, 10.11. Project Kick-Off (after the lecture) - deadline for group assembly afer the exercise
 * Thu, 24.11. Supervision meeting (mandatory)
 * Thu, 08.12. Group presentation round (mandatory)
 * Tue, 03.01.2023 Project report hand-in (mandatory)
@@ -20,8 +20,9 @@ In parallel to working towards the general learning objectives of the Advanced M
 
 
 ## Formalities
-As seen in the timeline, the project time is 11.11.-08.12., so roughly four weeks. 
-  During this time you have no lectures or other mandatory exercises for the course, but the opportunity to discuss some rework of previous lectures/exercises (if needed) and the (optional) exercise sheet 10 during the exercise time on 15.11. 
+Several groups can choose the same project, but they must obviously work on it on their own and create separate submissions. (Remember: no plagiarism.) 
+Groups must sign up until Thu, 10th of November, hence remember to send your own project description in due time if you have one.
+As seen in the timeline, the project time is 11.11.-08.12., so roughly four weeks. During this time you have no lectures or other mandatory exercises for the course, but the opportunity to discuss some rework of previous lectures/exercises (if needed) and the (optional) exercise sheet 10 during the exercise time on 15.11. 
 
 However, the final report is due on 3rd of January 2023. The project work is done in groups of 2–4 people. The group formation happens via LearnIT, and you need to register as one group until 09./10.11.2022.
 
@@ -54,7 +55,8 @@ For this, you can either select one of the prepared projects below or create you
 * ...
 
 #### Create your own project
-You are encouraged to come up with your own project and propose it to the teachers (contact Stella). Good inspirations for your own project are:
+You are encouraged to come up with your own project and propose it to the teachers (contact Stella). Please note that: (1) your project proposal must be approved by the course manager. (2) It cannot be a project which you did or are currently doing at ITU, or it must be sufficiently different, otherwise we will run into problems.
+Good inspirations for your own project are:
 
 * [**Kaggle**](https://www.kaggle.com/competitions), 
 * [**paperswithcode.com**](https://paperswithcode.com/) 
